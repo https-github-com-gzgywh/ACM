@@ -30,7 +30,10 @@
 
 [Tutorial](https://blog.nowcoder.net/n/5b360b25e43e4f2a93ed327d594179cd)
 
-## Codeforces
+#### 每日一题
+- [x] [NC50439  tokitsukaze and Soldier](https://ac.nowcoder.com/discuss/390428)
+
+
 
 ## AcWing
 #### 基础算法
@@ -55,6 +58,4 @@
 
 [Tutorial](https://blog.nowcoder.net/n/8dcea1869b654946a12cb2e8b19e0004)
 
-## Google kickstart
-
-## Regional
+## Codeforces
